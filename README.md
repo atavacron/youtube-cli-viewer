@@ -1,6 +1,8 @@
 # youtube-cli-viewer
 Simple CLI interface to watch YouTube videos
 
+Dependencies: mpv, youtube-dl
+
 Usage: ./youtube.sh [VIDEO LINK] [QUALITY OPTION]
 	
 To play a video, type your link and the quality option you want to use.
